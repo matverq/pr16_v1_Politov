@@ -1,0 +1,15 @@
+C:\Politov_PR-21\pr16_v1_Politov\bin\Debug\pr16_v1_Politov.exe.config
+C:\Politov_PR-21\pr16_v1_Politov\bin\Debug\pr16_v1_Politov.exe
+C:\Politov_PR-21\pr16_v1_Politov\bin\Debug\pr16_v1_Politov.pdb
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\MainWindow.g.cs
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\App.g.cs
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov_MarkupCompile.cache
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov_MarkupCompile.lref
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\MainWindow.baml
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.g.resources
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.Properties.Resources.resources
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.csproj.GenerateResource.cache
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.csproj.CoreCompileInputs.cache
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.exe
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.pdb
+C:\Politov_PR-21\pr16_v1_Politov\obj\Debug\pr16_v1_Politov.csproj.AssemblyReference.cache
